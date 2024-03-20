@@ -1,0 +1,14 @@
+D:\School_Materials\CSI260\Final\Library Application\obj\Debug\net6.0\Library Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\School_Materials\CSI260\Final\Library Application\obj\Debug\net6.0\Library Application.AssemblyInfoInputs.cache
+D:\School_Materials\CSI260\Final\Library Application\obj\Debug\net6.0\Library Application.AssemblyInfo.cs
+D:\School_Materials\CSI260\Final\Library Application\obj\Debug\net6.0\Library Application.csproj.CoreCompileInputs.cache
+D:\School_Materials\CSI260\Final\Library Application\bin\Debug\net6.0\Library Application.exe
+D:\School_Materials\CSI260\Final\Library Application\bin\Debug\net6.0\Library Application.deps.json
+D:\School_Materials\CSI260\Final\Library Application\bin\Debug\net6.0\Library Application.runtimeconfig.json
+D:\School_Materials\CSI260\Final\Library Application\bin\Debug\net6.0\Library Application.dll
+D:\School_Materials\CSI260\Final\Library Application\bin\Debug\net6.0\Library Application.pdb
+D:\School_Materials\CSI260\Final\Library Application\obj\Debug\net6.0\Library Application.dll
+D:\School_Materials\CSI260\Final\Library Application\obj\Debug\net6.0\refint\Library Application.dll
+D:\School_Materials\CSI260\Final\Library Application\obj\Debug\net6.0\Library Application.pdb
+D:\School_Materials\CSI260\Final\Library Application\obj\Debug\net6.0\Library Application.genruntimeconfig.cache
+D:\School_Materials\CSI260\Final\Library Application\obj\Debug\net6.0\ref\Library Application.dll
